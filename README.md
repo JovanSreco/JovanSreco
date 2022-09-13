@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JovanSreco
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript and ReactJS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me jovan.sreco@gmail.com
 
